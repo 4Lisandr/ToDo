@@ -8,7 +8,6 @@
 /build
 /captures
 .externalNativeBuild
-
 # Compiled class file
 *.class
 # Log file
